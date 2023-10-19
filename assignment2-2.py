@@ -11,4 +11,4 @@ if cal>=17:
 elif cal<17 and cal>=12:
     print("student",name,family,"is normal")
 else:
-    print("student",name,family,"your is fail")
+    print("student",name,family,"is fail")
